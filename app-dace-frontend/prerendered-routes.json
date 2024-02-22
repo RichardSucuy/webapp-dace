@@ -1,0 +1,23 @@
+{
+  "routes": [
+    "/agencias",
+    "/agencias/nuevo",
+    "/canales",
+    "/canales/nuevo",
+    "/ciudades",
+    "/ciudades/nuevo",
+    "/clientes",
+    "/clientes/nuevo",
+    "/dashboard",
+    "/interacciones",
+    "/interacciones/nuevo",
+    "/login",
+    "/motivos",
+    "/motivos/nuevo",
+    "/perfil",
+    "/temas",
+    "/temas/nuevo",
+    "/usuarios",
+    "/usuarios/nuevo"
+  ]
+}
